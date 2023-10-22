@@ -4,6 +4,7 @@ Atividades - Vetores em Portugol
 
 Exercício 1:
 Dado um vetor contendo 10 números inteiros não ordenados, construa um algoritmo que consiga ordenar o vetor em ordem decrescente.
+![ex1](https://github.com/BiaAkemi/Generation/assets/145511213/42b05512-2fc3-4e22-bb86-790c3cf873e7)
 
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 - Saída de dados;
