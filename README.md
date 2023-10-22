@@ -20,6 +20,9 @@ Elabore um algoritmo que leia 10 números inteiros e armazene em um vetor. Em se
 - A Soma de todos os elementos do vetor;
 - A Média de todos os elementos do vetor, armazenada em uma variável do tipo real.
 
+![ex2](https://github.com/BiaAkemi/Generation/assets/145511213/9285253e-06c9-42e4-9bb3-4cb7a1d9d541)
+
+
 Na construção do Algoritmo, utilize os seguintes conteúdos:
 - Entrada e Saída de dados;
 - Laços Condicionais;
