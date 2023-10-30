@@ -1,5 +1,5 @@
 # Generation 
-Exercícios em Portugol para a primeira semana do bootcamp de Front end da Generation.
+Exercícios em Portugol para a primeira semana do bootcamp de Java Full Stack da Generation.
 
 Atividades - Vetores em Portugol
 
